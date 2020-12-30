@@ -1,0 +1,74 @@
+.flexDiv{
+    display: flex;
+}
+.v_centerH{
+    padding: 35px;
+    position: relative;
+    top: 50%;
+}
+.adjust{
+    padding-top: 3.23%;
+}
+.owner{
+    font-size: 3rem;
+    font-weight: 900;
+    margin: 2% 0;
+}
+.ownerText{
+    font-weight: 350;
+    font-size: 24px;
+}
+.actionBtn{
+    padding: 5px 15px;
+    border-radius: 5px;
+    border-style: none;
+    text-decoration: none !important;
+    font-size: 2rem;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+    font-weight: 800;
+    color: white !important;
+}
+.actionBtn:hover{
+    background: linear-gradient(90deg, #3F5EFB 0%, #FC466B 100%);
+    cursor: pointer;
+}
+.banner{
+    background: linear-gradient(to left,#0563f1, #000 60%);
+    color: #fff;
+    justify-content: space-between;
+    padding: 15px;
+}
+.boldText{
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+}
+.v_center{
+    padding: 35px;
+    position: relative;
+    top: 50%;
+    /* -ms-transform: translateY(-50%);  */
+    /* transform: translateY(-50%); */
+}
+.bannerTitle{
+    font-size: 10vw;
+    font-weight: 900;
+    line-height: 0.8;
+}
+.bookBtn{
+    padding: 5px 15px !important;
+    border-radius: 5px !important;
+    border-style: none;
+    text-decoration: none !important;
+    font-size: 2rem !important;
+    background: blue !important;
+    font-weight: 800 !important;
+    cursor: pointer !important;
+    color: white !important;
+}
+
+@media screen and (max-width:980px){
+    .flexDiv{
+        flex-wrap: wrap;
+    }
+}

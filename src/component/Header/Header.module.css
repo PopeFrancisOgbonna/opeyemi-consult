@@ -1,0 +1,37 @@
+.headerDiv{
+    background: #000000;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5%;
+    position: sticky;
+    top: 0;
+    /* height: 80px; */
+    z-index: 99;
+    opacity: 1;
+}
+.headerDiv img{
+    width: 350px;
+}
+.headerDiv ul{
+    margin: auto 0;
+}
+.list{
+    list-style: none;
+    color: #fff;
+    display: inline-block;
+    margin: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.list:hover{
+    color:#d3a203
+}
+.actionBtn{
+    border-radius: 5px;
+    background: #0000FF;
+    padding: 0 10px;
+}
+.actionBtn:hover{
+    color: #fff;
+}

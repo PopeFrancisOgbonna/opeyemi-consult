@@ -1,0 +1,52 @@
+.outerWrap{
+    border: 2px solid #eee;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 4% 6%;
+    box-shadow: 0 0 12px rgb(204, 203, 203);
+    padding: 30px;
+}
+.outerWrap h1, .outerWrap h4{
+    text-align: center;
+}
+.outerWrap h1{
+    margin: 10px 0 45px 0;
+    font-weight: 900;
+}
+.outerWrap h4{
+    font-weight: 700;
+}
+.formWrap{
+    display: flex;
+    justify-content: space-between;
+}
+.inputDiv{
+    width: 95%;
+    margin: 15px  15px 5px 15px;
+}
+.inputDiv input{
+    padding: 8px;
+    border: 2px solid #B6BBBF;
+    border-radius: 5px;
+    width: 100%;
+}
+.inputDiv p{
+    color: red;
+    margin-top: 1px;
+}
+.regBtn{
+    border-style: none;
+    padding: 6px 12px;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 600;
+    float: right;
+    margin-top: 0;
+    background: rgb(2, 39, 248);
+}
+form{
+    padding-bottom: 2%;
+}
+.hide{
+    display: none;
+}

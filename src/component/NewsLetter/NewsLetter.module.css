@@ -1,0 +1,33 @@
+.bg{
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding: 3% 0 10% 0;
+}
+.title{
+    font-size: 4rem;
+    font-weight: 800;
+    margin: 5% 0 3% 0;
+}
+.inputText{
+    padding: 5px;
+    border-style: none;
+    width: 40%;
+    background: #686868e3;
+    margin-right: 5px;
+    color: #fff;
+    font-size: 1.8em;
+}
+.actionBtn{
+    padding: 8px 15px;
+    text-decoration: none !important;
+    border-style: none;
+    font-size: 1.6rem;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+    font-weight: 500;
+    color: white !important;
+}
+.actionBtn:hover{
+    cursor: pointer;
+    background: linear-gradient(90deg,#3f5efb 0%, #fc466b 100%);
+}

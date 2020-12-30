@@ -1,0 +1,70 @@
+.containerDiv{
+    margin: 4% 0;
+    padding-top: 7%;
+   
+}
+.main_title{
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0 3% 0;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.flexDiv{
+    display: flex;
+    justify-content: space-between;
+}
+.cards{
+    width: 35%;
+    border: 2px solid #c5c5c567;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px #c5c5c567;
+}
+.content{
+    padding: 15px;
+}
+.contentText{
+    color: rgba(0, 0, 0, 0.37);
+}
+.cards_p{
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+.telegramDiv{
+    padding-top: 9%;
+}
+.telegram{
+    color: #fff;
+}
+.telegram h1{
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.telegram p{
+    font-size: 1.2em;
+}
+.teleBg{
+    background-image: url('../Images/telegram_backdrop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icons{
+    width: 100px;
+    height: 100px;
+}
+.titleText{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.join{
+    padding: 5px;
+    border-style: none;
+    background: #4646FF;
+    float: right;
+    color: #fff;
+    font-size: 1.4rem;
+    font-weight: bold;
+    width: 80px;
+}

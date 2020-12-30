@@ -1,0 +1,13 @@
+.flexDiv{
+    display: flex;
+    justify-content: stretch;
+}
+.pix{
+    width: 60%;
+}
+.text{
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 30px;
+}

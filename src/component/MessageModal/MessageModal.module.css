@@ -1,0 +1,69 @@
+.outerWrap{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.39);
+    height: 100vh;
+    width: 100vw;
+    z-index: 999;
+    overflow: auto;
+}
+.innerWrap{
+    background: #fff;
+    border-radius: 5px;
+    margin: 5% auto;
+    width: 35%;
+    text-align: center;
+    padding-left:1%;
+    padding-bottom: 3%;
+}
+.icons{
+    width: 130px;
+    height: auto;
+    margin: 10px;
+}
+.title{
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+.inputDiv{
+    width: 90%;
+    margin: 4%;
+}
+.inputDiv p{
+    text-align: left;
+    margin:0;
+}
+.label{
+    font-size: 1.2rem;
+}
+.inst{
+    color: red;
+}
+.inputDiv input{
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.inputDiv textarea{
+    width: 100%;
+    border-radius: 5px;
+}
+.sendBtn{
+    padding: 5px 10px;
+    border-style: none;
+    background: rgb(1, 82, 231);
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 900;
+    float: right;
+    margin-right: 34px;
+    cursor: pointer;
+}
+form{
+    padding-bottom: 5%;
+}
+.hide{
+    display:none;
+}
