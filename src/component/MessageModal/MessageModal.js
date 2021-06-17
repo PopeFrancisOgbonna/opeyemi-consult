@@ -11,7 +11,7 @@ const MessageModal = (props) =>{
         props.changeDisplay('')
     }
     return(
-        <div className={props.display === 'message' ? cx(Styles.outerWrap) : cx(Styles.hide)}>
+        <div  className={props.display === 'message' ? cx(Styles.outerWrap) : cx(Styles.hide)}>
             <div className={cx(Styles.innerWrap)}>
                 <div>
                     <img className={cx(Styles.icons)} src={Images.MessageIcon} alt='facebook' />

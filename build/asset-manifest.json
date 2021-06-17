@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5b03c74.chunk.css",
+    "main.js": "/static/js/main.ddce3f1a.chunk.js",
+    "main.js.map": "/static/js/main.ddce3f1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e69e1b30.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e69e1b30.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cf6ff8db.chunk.js": "/static/js/2.cf6ff8db.chunk.js",
+    "static/js/2.cf6ff8db.chunk.js.map": "/static/js/2.cf6ff8db.chunk.js.map",
+    "static/js/3.3ecd2e21.chunk.js": "/static/js/3.3ecd2e21.chunk.js",
+    "static/js/3.3ecd2e21.chunk.js.map": "/static/js/3.3ecd2e21.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.b5b03c74.chunk.css.map": "/static/css/main.b5b03c74.chunk.css.map",
+    "static/js/2.cf6ff8db.chunk.js.LICENSE.txt": "/static/js/2.cf6ff8db.chunk.js.LICENSE.txt",
+    "static/media/binoculars.94e30ffe.png": "/static/media/binoculars.94e30ffe.png",
+    "static/media/calendar.5b4f2dc0.svg": "/static/media/calendar.5b4f2dc0.svg",
+    "static/media/careers.912220e3.png": "/static/media/careers.912220e3.png",
+    "static/media/live_goals.f135fa8e.png": "/static/media/live_goals.f135fa8e.png",
+    "static/media/logo.a8720c83.png": "/static/media/logo.a8720c83.png",
+    "static/media/logo2.a8720c83.png": "/static/media/logo2.a8720c83.png",
+    "static/media/meet_me_banner.6fd1cd1b.png": "/static/media/meet_me_banner.6fd1cd1b.png",
+    "static/media/message_icon.ea5912fc.png": "/static/media/message_icon.ea5912fc.png",
+    "static/media/opeyemi_shokunbi.1e22262b.png": "/static/media/opeyemi_shokunbi.1e22262b.png",
+    "static/media/opeyemi_shokunbi_c.eda523a6.png": "/static/media/opeyemi_shokunbi_c.eda523a6.png",
+    "static/media/personal_development1.b6d90afc.png": "/static/media/personal_development1.b6d90afc.png",
+    "static/media/personal_development2.159534b3.png": "/static/media/personal_development2.159534b3.png",
+    "static/media/personal_development3.1d205c3d.png": "/static/media/personal_development3.1d205c3d.png",
+    "static/media/question.4e813719.png": "/static/media/question.4e813719.png",
+    "static/media/telegram.db77cedc.png": "/static/media/telegram.db77cedc.png",
+    "static/media/CurrentEvents.module.css": "/static/media/telegram_backdrop.f1c29915.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e69e1b30.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cf6ff8db.chunk.js",
+    "static/css/main.b5b03c74.chunk.css",
+    "static/js/main.ddce3f1a.chunk.js"
+  ]
+}
